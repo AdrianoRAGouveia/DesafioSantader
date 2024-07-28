@@ -39,3 +39,4 @@ classDiagram
   User "1" *-- "N" News
 ```
 
+
